@@ -23,7 +23,7 @@
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="collapse navbar-collapse justify-content-center" id="navbarNavAltMarkup">
+            <div class="collapse navbar-collapse justify-content-right" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
                     <a class="nav-item nav-link active" href="jaroslawiec.php">Jarosławiec</a>
                     <a class="nav-item nav-link active" href="noclegi.php">Noclegi</a>
@@ -45,21 +45,21 @@
             </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="images/slide11.jpeg" height="100%" width="100%" class="d-block w-100" alt="...">
+                <img src="images/slide1.jpeg" height="1024" width="2032" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
-                    <h2>NOCLEGI JAROSŁAWIEC</h2>
+                    <p><a role="button" class="btn btn-primary">NOCLEGI JAROSŁAWIEC</a></p>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="images/slide11.jpeg" height="100%" width="100%" class="d-block w-100" alt="...">
+                <img src="images/slide1.jpeg" height="1024" width="2032" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
-                    <h2>NOCLEGI JAROSŁAWIEC</h2>
+                    <p><a role="button" class="btn btn-primary">NOCLEGI JAROSŁAWIEC</a></p>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="images/slide11.jpeg" height="100%" width="100%" class="d-block w-100" alt="..." >
+                <img src="images/slide1.jpeg" height="1024" width="2032" class="d-block w-100" alt="..." >
                 <div class="carousel-caption d-none d-md-block">
-                    <h2>NOCLEGI JAROSŁAWIEC</h2>
+                    <p><a role="button" class="btn btn-primary">NOCLEGI JAROSŁAWIEC</a></p>
                 </div>
             </div>
         </div>

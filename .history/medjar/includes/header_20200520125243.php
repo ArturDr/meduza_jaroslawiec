@@ -47,19 +47,19 @@
             <div class="carousel-item active">
                 <img src="images/slide11.jpeg" height="100%" width="100%" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
-                    <h2>NOCLEGI JAROSŁAWIEC</h2>
+                    <p><a role="button" class="btn btn-primary">NOCLEGI JAROSŁAWIEC</a></p>
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="images/slide11.jpeg" height="100%" width="100%" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
-                    <h2>NOCLEGI JAROSŁAWIEC</h2>
+                    <p><a role="button" class="btn btn-primary">NOCLEGI JAROSŁAWIEC</a></p>
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="images/slide11.jpeg" height="100%" width="100%" class="d-block w-100" alt="..." >
                 <div class="carousel-caption d-none d-md-block">
-                    <h2>NOCLEGI JAROSŁAWIEC</h2>
+                    <p><a role="button" class="btn btn-primary">NOCLEGI JAROSŁAWIEC</a></p>
                 </div>
             </div>
         </div>
