@@ -37,41 +37,4 @@
         </section>
         <!-- end sec1-->
 
-        <!-- sec2-->
-        <section id="sec2">
-			<div class="container-fluid">
-			    <div class="row nopadding">
-				    <div class="col-xs-12 col-sm-12">
-					    <h3>Atrakcje w Jarosławcu!</h3>
-				    </div>
-			    </div>
-			    <div class="row nopadding">
-				    <div class="col-xs-12 col-sm-2">
-					    <img src=""/>
-					    <p>Plaża w Jarosławcu</p>
-				    </div>
-				    <div class="col-xs-12 col-sm-2">
-					    <img src="" />
-					    <p>Klifowe wybrzeże</p>
-				    </div>
-				    <div class="col-xs-12 col-sm-2">
-					    <img src="" />
-					    <p>Latarnia Morska w Jarosławcu</p>
-				    </div>
-				    <div class="col-xs-12 col-sm-2">
-					    <img src="" />
-					    <p>Przystań rybacka</p>
-				    </div>
-				    <div class="col-xs-12 col-sm-2">
-					    <img src="" />
-					    <p>Unikalne Muzeum Bursztynu</p>
-				    </div>
-				    <div class="col-xs-12 col-sm-2">
-					    <img src="" />
-					    <p>Park linowy dla dzieci</p>
-				    </div>
-			    </div>
-		    </div>
-	    </section>
-
 <?php include('includes/footer.php'); ?>
