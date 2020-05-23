@@ -43,7 +43,7 @@
         <section id="sec2">
 			<div class="container">
 			    <div class="row justify-content-center">
-				    <div class="col-xs-4 col-sm-4">
+				    <div class="col-xs-3 col-sm-3">
 					    <h3>Atrakcje w Jarosławcu!</h3>
 				    </div>
 			    </div>
