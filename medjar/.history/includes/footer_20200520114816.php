@@ -2,15 +2,13 @@
 <section id="sec4">
             <div class="container">
                 <div class="row justify-content-center" id="kontakt">
-                    <div class="col-xl-2 col-lg-3 col-md-4 col-sm-4 col-6">
-                        <h1>KONTAKT</h1>
+                    <div class="col-xl-2 col-lg-3 col-md-4 col-sm-4 col-6">                            <h1>KONTAKT</h1>
                     </div>
                 </div>
                 <div class="row justify-content-center">
-                    <div class="col-xl-3 col-lg-3 col-md-4 col-sm-6 col-8">
-                        <p class="text-center">ul. Zebrzydowicka 32/2,<br> 44-210 Rybnik</p>
-                        <p class="text-center">+48 511 474 064</p>
-                        <p class="text-center">biuro@beatalukas.pl</p>
+                    <div class="col-xl-2 col-lg-2 col-md-3 col-sm-4 col-6">
+                        <p class="text-center">ul. Zebrzydowicka 32/2, 44-210 Rybnik</p>
+                        <p class="text-center">+48 511 474 064</p> <p class="text-center">biuro@beatalukas.pl</p>
                     </div>
                 </div>
                 <div class="row justify-content-end">
