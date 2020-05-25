@@ -5,22 +5,22 @@
 <?php include('includes/navbar.php'); ?>
 
 <!-- sec1 -->
-<section id="j.sec1">
+<section id="sec1">
     <div class="container">
         <div class="row">
             <div class="col-sm-5 col-12">
             <img src="">
             </div>
             <div class="col-sm-7 col-12">
-            <h2>Jarosławiec</h2>
-            <p>to spokojne, niewielkie letnisko położone na środkowym wybrzeżu, blisko Darłowa i Ustki. Wspaniały klimat i krajobrazy, sosnowe lasy, czysta woda w morzu, nadmorski klif - to zalety Jarosławca, które powodują, że miejscowość co roku przyciąga rzesze turystów. W Jarosławcu znajduje się udostępniona do zwiedzania latarnia morska o wysokości 33 m. Ze szczytu latarni rozciąga się malownicza panorama morza i okolicy.</p>
+            <h2></h2>
+            <p></p>
             </div>
         </div>
     </div>
 <!-- end sec1 -->
 
 <!-- sec2-->
-<section id="j.sec2">
+<section id="sec2">
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-sm-4 col-4">
@@ -64,10 +64,10 @@
 <!-- end sec2 -->
 
 <!--sec3-->
-<section id="j.sec3">
+<section id="sec3">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-md-8 col-sm-10 col-12">
+            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 col-6">
                 <h2>Ponadto Jarosławiec oferuje liczne atrakcje, m.in:</h2>
             </div>
         </div>
