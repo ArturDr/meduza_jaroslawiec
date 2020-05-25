@@ -83,12 +83,11 @@
         <div class="row justify-content-center">
             <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 col-6">
                 <h1>NASZA LOKALIZACJA</h1>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9258.9887111871!2d16.536268!3d54.537953!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7378357c2304755a!2sMeduza!5e0!3m2!1spl!2spl!4v1590423370901!5m2!1spl!2spl" width="100%" height="600" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
             </div>
         </div>
     </div>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9258.9887111871!2d16.536268!3d54.537953!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7378357c2304755a!2sMeduza!5e0!3m2!1spl!2spl!4v1590423370901!5m2!1spl!2spl" width="100%" height="600" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 </section>
-<!-- end sec3 -->
 
 
 <?php include('includes/footer.php'); ?>
