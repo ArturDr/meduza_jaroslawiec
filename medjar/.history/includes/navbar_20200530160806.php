@@ -2,7 +2,7 @@
     <body>
         <!-- nav-->
         <nav class="navbar navbar-expand-lg navbar-dark sticky-top" id="navibar">
-            <a class="navbar-brand" href="index.php"><img src="images/logo.png" height="35" width="35" class="d-inline-block"></img>
+            <a class="navbar-brand" href="index.php"><alt src="images/logo.png" height="35" width="35" class="d-inline-block"></alt>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
