@@ -11,3 +11,5 @@
         <!-- Custom Styles-->
         <link rel="stylesheet" type="text/css" href="style.css">
         <link rel="stylesheet" href="compact-gallery.css">
+
+        <link rel = "icon" type = "image/png" href = "logo.png">

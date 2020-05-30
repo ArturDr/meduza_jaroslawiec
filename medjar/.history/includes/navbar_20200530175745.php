@@ -1,5 +1,3 @@
-<link rel = "icon" type = "image/png" href = "images/logo.png">
-
 </head>
     <body>
         <!-- nav-->
