@@ -3,7 +3,7 @@
 </head>
     <body>
         <!-- nav-->
-        <nav class="navbar navbar-expand-lg navbar-light sticky-top" id="navibar">
+        <nav class="navbar navbar-expand-lg navbar-dark sticky-top" id="navibar">
             <a class="navbar-brand" href="index.php"><img src="images/logo.png" height="35" width="35" class="d-inline-block"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -30,19 +30,19 @@
             </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="images/slide11.jpeg" height="100%" width="100%" class="d-block w-100" alt="...">
+                <img src="images/slide11.jpeg" height="315px" width="100%" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
                     <h2>NOCLEGI JAROSŁAWIEC</h2>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="images/slide11.jpeg" height="100%" width="100%" class="d-block w-100" alt="...">
+                <img src="images/slide11.jpeg" height="315px" width="100%" class="d-block w-100" alt="...">
                 <div class="carousel-caption d-none d-md-block">
                     <h2>NOCLEGI JAROSŁAWIEC</h2>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="images/slide11.jpeg" height="100%" width="100%" class="d-block w-100" alt="..." >
+                <img src="images/slide11.jpeg" height="315px" width="100%" class="d-block w-100" alt="..." >
                 <div class="carousel-caption d-none d-md-block">
                     <h2>NOCLEGI JAROSŁAWIEC</h2>
                 </div>

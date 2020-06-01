@@ -3,7 +3,7 @@
 </head>
     <body>
         <!-- nav-->
-        <nav class="navbar navbar-expand-lg navbar-light sticky-top" id="navibar">
+        <nav class="navbar navbar-expand-lg navbar-dark sticky-top" id="navibar">
             <a class="navbar-brand" href="index.php"><img src="images/logo.png" height="35" width="35" class="d-inline-block"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>

@@ -1,0 +1,19 @@
+#navibar {
+    background-color: white;
+    font-family: Arial;
+}
+
+#navbarNavAltMarkup a {
+    color: rgba(222, 163, 8, 1);
+    margin: 0 20px;
+}
+
+
+#jsec2 {
+    background-color: red;
+}
+
+#jsec2 img {
+    height: 50px;
+    width: 50px;
+}

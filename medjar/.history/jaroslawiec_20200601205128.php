@@ -5,7 +5,7 @@
 <?php include('includes/navbar.php'); ?>
 
 <!-- sec1 -->
-<section id="jsec1">
+<section id="j.sec1">
     <div class="container">
         <div class="row">
             <div class="col-sm-5 col-12">
@@ -20,7 +20,7 @@
 <!-- end sec1 -->
 
 <!-- sec2-->
-<section id="jsec2">
+<section id="j.sec2">
 	<div class="container">
 		<div class="row justify-content-center">
 			<div class="col-sm-4 col-4">
@@ -64,7 +64,7 @@
 <!-- end sec2 -->
 
 <!--sec3-->
-<section id="jsec3">
+<section id="j.sec3">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-8 col-sm-10 col-12">
