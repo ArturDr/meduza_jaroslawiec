@@ -11,7 +11,7 @@
 
 #sec2 {
     height: auto;
-    background: url('../images/jellyfish.jpg') no-repeat center center fixed;
+    background: url('../images/vacations.jpg') no-repeat center center fixed;
     background-size: cover;
     color: white;
 }
@@ -23,7 +23,7 @@
 
 #jsec2 {
     height: auto;
-    background: url('../images/jellyfish.jpg') no-repeat center center fixed;
+    background: url('../images/vacations.jpg') no-repeat center center fixed;
     background-size: cover;
     color: white;
 }
@@ -31,10 +31,4 @@
 #jsec2 img {
     height: 100px;
     width: 100px;
-}
-
-#csec1 {
-    background: url('../images/jellyfish.jpg') no-repeat center center fixed;
-    background-size: cover;
-    color: white;
 }
