@@ -31,7 +31,7 @@
         <div class="carousel-inner">
             <div class="carousel-item active">
                 <img src="images/slide111.jpeg" class="d-block w-100">
-                <div class="carousel-caption d-none d-md-block">
+                <div class="carousel-caption">
                     <h2>NOCLEGI W JAROSŁAWCU</h2>
                 </div>
             </div>

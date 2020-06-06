@@ -16,9 +16,8 @@ body {
     text-transform: uppercase;
 }
 
-h1, h2, h3 {
-    margin: 1em 0 0 0;
-    line-height: 1.5em;
+#carouselGallery img {
+    height: 80%;
 }
 
 h1 {
@@ -29,62 +28,40 @@ h1 {
 h2 {
     font-family: Arial;
     font-size: 0.8em;
+    margin-top: 20px;
 }
 
 h3 {
     font-family: Arial;
     font-size: 0.7em;
+    margin-top: 20px;
 }
 
 p {
     font-family: Arial;
     font-size: 0.6em;
-    margin-top: 0.8em;
+    margin-top: 15px;
 }
 
-#sec1 h2 {
-    font-size: 1.5em;
-    background-color: rgba(1, 1, 1, 0.5);
-}
-
-#sec2 {
-    margin: 1.2em 0;
-}
-
-#sec2 p {
-    line-height: 2em;
-}
-
-#sec2 a {
+#sec1 a {
     color: rgba(248.9, 159.1, 28.1, 1);
     text-decoration: none;
-    font-size: 1.3em;
 }
 
-#sec2 a:hover {
+#sec1 a li:hover {
     color: grey;
 }
 
-#sec3 {
+#sec2 {
     height: auto;
     background: url('../images/jellyfish.jpg') no-repeat center center fixed;
     background-size: cover;
     color: white;
 }
 
-#sec3 img {
-    height: 85px;
-    width: 85px;
-    margin-top: 1em;
-}
-
-#sec3 h3 {
-    margin-bottom: 1em;
-}
-
-#sec4 h1 {
-    color: rgba(248.9, 159.1, 28.1, 1);
-    margin-bottom: 1em;
+#sec2 img {
+    height: 75px;
+    width: 75px;
 }
 
 #jsec2 {

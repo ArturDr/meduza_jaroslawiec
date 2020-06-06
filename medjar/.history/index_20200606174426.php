@@ -5,11 +5,16 @@
 <?php include('includes/navbar.php'); ?>
 
 <!--sec1-->
-<section id="sec2">
+<section id="sec1">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-12 text-center">
-                <h1><strong>Zapraszamy do Jarosławca</strong><br>gdzie słońce w ciągu roku świeci o 28 dni więcej niż na całym wybrzeżu!</h1>
+                <h1>Zapraszamy do Jarosławca</h1>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-12 text-center">
+                <h1>gdzie słońce w ciągu roku świeci o 28 dni więcej niż na całym wybrzeżu!</h1>
             </div>
         </div>
         <div class="row justify-content-center">
@@ -22,12 +27,12 @@
         </div>
         <div class="row justify-content-center">
             <div class="col-12 text-center">
-                <h1><a href="tel:+48666666666"><strong>666 666 666</strong></a></h1>
+                <h1><a href="tel:+48666666666">666 666 666</a></h1>
             </div>
         </div>
         <div class="row justify-content-center">
             <div class="col-12 text-center">
-                <h1><a href="mailto:rezerwacje@meduza-jarozlawiec.pl"><strong>rezerwacje@meduza-jaroslawiec.pl</strong></a></h1>
+                <h1><a href="mailto:rezerwacje@meduza-jarozlawiec.pl">rezerwacje@meduza-jaroslawiec.pl</a></h1>
             </div>
         </div>
     </div>
@@ -35,11 +40,11 @@
 <!-- end sec1-->
 
 <!-- sec2-->
-<section id="sec3">
+<section id="sec2">
 	<div class="container-fluid">
 		<div class="row justify-content-center">
 			<div class="col-12 text-center">
-				<h1 class="text-center"><strong>Atrakcje w Jarosławcu!</strong></h1>
+				<h1 class="text-center">Atrakcje w Jarosławcu!</h1>
 			</div>
 		</div>
 		<div class="row">
@@ -73,11 +78,11 @@
 <!-- end sec2 -->
 
 <!-- sec3 -->
-<section id="sec4">
+<section id="sec3">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-12 text-center">
-                <h1><strong>NASZA LOKALIZACJA</strong></h1>
+                <h1>NASZA LOKALIZACJA</h1>
             </div>
         </div>
     </div>

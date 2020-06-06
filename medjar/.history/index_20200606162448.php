@@ -5,29 +5,34 @@
 <?php include('includes/navbar.php'); ?>
 
 <!--sec1-->
-<section id="sec2">
+<section id="sec1">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-12 text-center">
-                <h1><strong>Zapraszamy do Jarosławca</strong><br>gdzie słońce w ciągu roku świeci o 28 dni więcej niż na całym wybrzeżu!</h1>
+                <h1>Zapraszamy do Jarosławca</h1>
             </div>
         </div>
         <div class="row justify-content-center">
             <div class="col-12 text-center">
-                <p class="text-center">Villa Fus to kilkuletni nadmorski hotel znajdujący się w malowniczej miejscowości Jarosławiec.<br>Do Państwa dyspozycji oddajemy 13 nowoczesnych i komfortowych pokoi oraz 2 domki 4-osobowe z aneksem kuchennym.<br>Obiekt położony jest 300m od piaszczystej plaży. Ośrodek otacza zielony ogród z altanami letnimi, sprzętem do grillowania i placem zabaw dla dzieci.<br>W ogrodzie znajdują się leżaki dla naszych Gości, którzy pragną relaksu na świeżym powietrzu.<br>Zaprszamy rodziny z dziećmi, osoby indywidualne oraz grupy zorganizowane. Posiadamy własny parking na terenie ośrodka.</p>
+                <h1>gdzie słońce w ciągu roku świeci o 28 dni więcej niż na całym wybrzeżu!</h1>
             </div>
-            <div class="col-12 text-center">
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-xl-8 col-lg-8 col-md-10 col-sm-10 col-12">
+                <p class="text-center">Villa Fus to kilkuletni nadmorski hotel znajdujący się w malowniczej miejscowości Jarosławiec. Do Państwa dyspozycji oddajemy 13 nowoczesnych i komfortowych pokoi oraz 2 domki 4-osobowe z aneksem kuchennym. Obiekt położony jest 300m od piaszczystej plaży. Ośrodek otacza zielony ogród z altanami letnimi, sprzętem do grillowania i placem zabaw dla dzieci. W ogrodzie znajdują się leżaki dla naszych Gości, którzy pragną relaksu na świeżym powietrzu. Zaprszamy rodziny z dziećmi, osoby indywidualne oraz grupy zorganizowane. Posiadamy własny parking na terenie ośrodka.</p>
+            </div>
+            <div class="col-xl-8 col-lg-8 col-md-10 col-sm-10 col-12">
                 <p class="text-center">Dla klientów Meduzy - 10% rabatu w Śląskiej Karczmie u Ola w centrum!</p>
             </div>
         </div>
         <div class="row justify-content-center">
             <div class="col-12 text-center">
-                <h1><a href="tel:+48666666666"><strong>666 666 666</strong></a></h1>
+                <h1><a href="tel:+48666666666">666 666 666</a></h1>
             </div>
         </div>
         <div class="row justify-content-center">
             <div class="col-12 text-center">
-                <h1><a href="mailto:rezerwacje@meduza-jarozlawiec.pl"><strong>rezerwacje@meduza-jaroslawiec.pl</strong></a></h1>
+                <h1><a href="mailto:rezerwacje@meduza-jarozlawiec.pl">rezerwacje@meduza-jaroslawiec.pl</a></h1>
             </div>
         </div>
     </div>
@@ -35,11 +40,11 @@
 <!-- end sec1-->
 
 <!-- sec2-->
-<section id="sec3">
+<section id="sec2">
 	<div class="container-fluid">
 		<div class="row justify-content-center">
 			<div class="col-12 text-center">
-				<h1 class="text-center"><strong>Atrakcje w Jarosławcu!</strong></h1>
+				<h1 class="text-center">Atrakcje w Jarosławcu!</h1>
 			</div>
 		</div>
 		<div class="row">
@@ -73,11 +78,11 @@
 <!-- end sec2 -->
 
 <!-- sec3 -->
-<section id="sec4">
+<section id="sec3">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-12 text-center">
-                <h1><strong>NASZA LOKALIZACJA</strong></h1>
+                <h1>NASZA LOKALIZACJA</h1>
             </div>
         </div>
     </div>

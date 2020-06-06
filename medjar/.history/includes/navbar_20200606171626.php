@@ -32,19 +32,19 @@
             <div class="carousel-item active">
                 <img src="images/slide111.jpeg" class="d-block w-100">
                 <div class="carousel-caption d-none d-md-block">
-                    <h2>NOCLEGI W JAROSŁAWCU</h2>
+                    <h2>NOCLEGI JAROSŁAWIEC</h2>
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="images/slide111.jpeg" class="d-block w-100">
                 <div class="carousel-caption d-none d-md-block">
-                    <h2>NOCLEGI W JAROSŁAWCU</h2>
+                    <h2>NOCLEGI JAROSŁAWIEC</h2>
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="images/slide111.jpeg" class="d-block w-100">
                 <div class="carousel-caption d-none d-md-block">
-                    <h2>NOCLEGI W JAROSŁAWCU</h2>
+                    <h2>NOCLEGI JAROSŁAWIEC</h2>
                 </div>
             </div>
         </div>

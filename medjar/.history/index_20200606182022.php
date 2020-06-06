@@ -39,7 +39,7 @@
 	<div class="container-fluid">
 		<div class="row justify-content-center">
 			<div class="col-12 text-center">
-				<h1 class="text-center"><strong>Atrakcje w Jarosławcu!</strong></h1>
+				<h1 class="text-center">Atrakcje w Jarosławcu!</h1>
 			</div>
 		</div>
 		<div class="row">
@@ -73,11 +73,11 @@
 <!-- end sec2 -->
 
 <!-- sec3 -->
-<section id="sec4">
+<section id="sec3">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-12 text-center">
-                <h1><strong>NASZA LOKALIZACJA</strong></h1>
+                <h1>NASZA LOKALIZACJA</h1>
             </div>
         </div>
     </div>
