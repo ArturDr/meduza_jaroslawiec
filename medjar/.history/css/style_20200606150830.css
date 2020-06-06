@@ -1,39 +1,12 @@
-body {
-    font-size: 165%;
-    margin: 0;
-    padding: 0;
-}
-
 #navibar {
     background-color: rgba(255, 255, 255, 0.8);
     font-family: Arial;
-    font-size: 0.6em;
 }
 
 #navbarNavAltMarkup a {
     color: rgba(248.9, 159.1, 28.1, 1);
     margin: 0 20px;
     text-transform: uppercase;
-}
-
-h1 {
-    font-family: Arial;
-    font-size: 1em;
-}
-
-h2 {
-    font-family: Arial;
-    font-size: 0.8em;
-}
-
-h3 {
-    font-family: Arial;
-    font-size: 0.7em;
-}
-
-p {
-    font-family: Arial;
-    font-size: 0.6em;
 }
 
 #sec2 {
@@ -44,8 +17,9 @@ p {
 }
 
 #sec2 img {
-    height: 75px;
-    width: 75px;
+    height: 50px;
+    width: 50px;
+    padding: auto;
 }
 
 #jsec2 {

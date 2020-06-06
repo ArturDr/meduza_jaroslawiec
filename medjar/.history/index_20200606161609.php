@@ -27,12 +27,12 @@
         </div>
         <div class="row justify-content-center">
             <div class="col-12 text-center">
-                <h1><a href="tel:+48666666666">666 666 666</a></h1>
+                <h1>666 666 666</h1>
             </div>
         </div>
         <div class="row justify-content-center">
             <div class="col-12 text-center">
-                <h1><a href="mailto:rezerwacje@meduza-jarozlawiec.pl">rezerwacje@meduza-jaroslawiec.pl</a></h1>
+                <h1>rezerwacje@meduza-jaroslawiec.pl</h1>
             </div>
         </div>
     </div>
@@ -81,7 +81,7 @@
 <section id="sec3">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-12 text-center">
+            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 col-6">
                 <h1>NASZA LOKALIZACJA</h1>
             </div>
         </div>

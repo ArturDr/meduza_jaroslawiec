@@ -81,7 +81,7 @@
 <section id="sec3">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-12 text-center">
+            <div class="col-xl-3 col-lg-3 col-md-4 col-sm-4 col-6">
                 <h1>NASZA LOKALIZACJA</h1>
             </div>
         </div>
