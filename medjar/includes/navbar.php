@@ -14,7 +14,7 @@
                     <a class="nav-item nav-link active" href="noclegi.php">Noclegi</a>
                     <a class="nav-item nav-link active" href="cennik.php">Cennik</a>
                     <a class="nav-item nav-link active" href="galeria.php">Galeria</a>
-                    <a class="nav-item nav-link active" href="#sec4">Kontakt</a>
+                    <a class="nav-item nav-link active" href="#sec5">Kontakt</a>
                 </div>
             </div>
         </nav>
