@@ -8,17 +8,17 @@
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-12 text-center">
-                        <p class="text-center">ul. Admiralska 7,<br> 76-107 Jarosławiec</p>
-                        <p class="text-center">+48 693 027 010</p>
-                        <p class="text-center">rezerwacje@meduza-jarosławiec.pl</p>
+                        <p class="text-center">ul. Zebrzydowicka 32/2,<br> 44-210 Rybnik</p>
+                        <p class="text-center">+48 511 474 064</p>
+                        <p class="text-center">biuro@beatalukas.pl</p>
                     </div>
                 </div>
                 <div class="row justify-content-end">
-                    <div class="col-12 text-right">
+                    <div class="col-5">
                         <footer>
-                            <p>&copy;2020 Artur Robek</p>
                             <p>Icon made by <a href="https://www.flaticon.com/authors/freepik">Freepik</a> from <a href="http://www.flaticon.com/">www.flaticon.com</a></p>
                             <p>Icon made by <a href="https://www.flaticon.com/authors/prosymbols">Prosymbols</a> from <a href="http://www.flaticon.com/">www.flaticon.com</a></p>
+                            <p>&copy;2020 Artur Robek</p>
                         </footer>
                     </div>
                 </div>

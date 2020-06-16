@@ -92,15 +92,6 @@ p {
     text-decoration: none;
 }
 
-#sec5 h1 {
-    color: rgba(248.9, 159.1, 28.1, 1);
-}
-
-#sec5 footer {
-    font-size: 0.8em;
-    line-height: 0em;
-}
-
 #jsec2 {
     height: auto;
     background: url('../images/jellyfish.jpg') no-repeat center center fixed;

@@ -8,9 +8,9 @@
                 </div>
                 <div class="row justify-content-center">
                     <div class="col-12 text-center">
-                        <p class="text-center">ul. Admiralska 7,<br> 76-107 Jarosławiec</p>
-                        <p class="text-center">+48 693 027 010</p>
-                        <p class="text-center">rezerwacje@meduza-jarosławiec.pl</p>
+                        <p class="text-center">ul. Zebrzydowicka 32/2,<br> 44-210 Rybnik</p>
+                        <p class="text-center">+48 511 474 064</p>
+                        <p class="text-center">biuro@beatalukas.pl</p>
                     </div>
                 </div>
                 <div class="row justify-content-end">
