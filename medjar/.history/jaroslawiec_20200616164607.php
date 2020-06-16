@@ -12,19 +12,18 @@
             <img src="">
             </div>
             <div class="col-sm-7 col-12">
-            	<h2><strong>Jarosławiec</strong></h2>
-            	<p>to spokojne, niewielkie letnisko położone na środkowym wybrzeżu, blisko Darłowa i Ustki. Wspaniały klimat i krajobrazy, sosnowe lasy, czysta woda w morzu, nadmorski klif - to zalety Jarosławca, które powodują, że miejscowość co roku przyciąga rzesze turystów. W Jarosławcu znajduje się udostępniona do zwiedzania latarnia morska o wysokości 33 m. Ze szczytu latarni rozciąga się malownicza panorama morza i okolicy.</p>
+            <h2>Jarosławiec</h2>
+            <p>to spokojne, niewielkie letnisko położone na środkowym wybrzeżu, blisko Darłowa i Ustki. Wspaniały klimat i krajobrazy, sosnowe lasy, czysta woda w morzu, nadmorski klif - to zalety Jarosławca, które powodują, że miejscowość co roku przyciąga rzesze turystów. W Jarosławcu znajduje się udostępniona do zwiedzania latarnia morska o wysokości 33 m. Ze szczytu latarni rozciąga się malownicza panorama morza i okolicy.</p>
             </div>
-		</div>
-	</div>
-</section>
+        </div>
+    </div>
 <!-- end sec1 -->
 
 <!-- sec2-->
 <section id="jsec2">
 	<div class="container-fluid">
 		<div class="row justify-content-center">
-			<div class="col-12 text-center">
+			<div class="col-sm-4 col-4">
 				<h1>Atrakcje w Jarosławcu!</h1>
 			</div>
 		</div>

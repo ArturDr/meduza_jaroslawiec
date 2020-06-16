@@ -130,7 +130,7 @@ p {
 
 #jsec3 {
     margin-top: 1em;
-    margin-bottom: 4em;
+    margin-bottom: 1em;
 }
 
 #jsec3 a {
@@ -150,7 +150,7 @@ p {
     margin-bottom: 2em;
 }
 
-#nsec1 a {
+#nsec1 a{
     color: rgba(248.9, 159.1, 28.1, 1);
     text-decoration: none;
 }
@@ -159,11 +159,7 @@ p {
     color: grey;
 }
 
-#nsec3 {
-    margin: 2em 0;
-}
-
-#nsec3 li {
+#nsec3 li{
     font-size: 0.6em;
 }
 
@@ -171,27 +167,4 @@ p {
     background: url('../images/jellyfish.jpg') no-repeat center center fixed;
     background-size: cover;
     color: white;
-    margin: 2em 5em;
-}
-
-#csec1 h1 {
-    margin: 1.5em 0;
-}
-
-#csec1 table {
-    text-align: center;
-}
-
-#csec1 th, #csec1 td {
-    padding: 0.3em 0.8em;
-    font-size: 0.8em;
-    border-bottom: white solid 3px;
-}
-
-#csec1 h3 {
-    margin: 1.5em 0;
-}
-
-#gsec1 h1 {
-    color: rgba(248.9, 159.1, 28.1, 1);
 }

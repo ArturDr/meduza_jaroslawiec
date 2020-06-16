@@ -12,49 +12,48 @@
             <img src="">
             </div>
             <div class="col-sm-7 col-12">
-            	<h2><strong>Jarosławiec</strong></h2>
-            	<p>to spokojne, niewielkie letnisko położone na środkowym wybrzeżu, blisko Darłowa i Ustki. Wspaniały klimat i krajobrazy, sosnowe lasy, czysta woda w morzu, nadmorski klif - to zalety Jarosławca, które powodują, że miejscowość co roku przyciąga rzesze turystów. W Jarosławcu znajduje się udostępniona do zwiedzania latarnia morska o wysokości 33 m. Ze szczytu latarni rozciąga się malownicza panorama morza i okolicy.</p>
+            <h2>Jarosławiec</h2>
+            <p>to spokojne, niewielkie letnisko położone na środkowym wybrzeżu, blisko Darłowa i Ustki. Wspaniały klimat i krajobrazy, sosnowe lasy, czysta woda w morzu, nadmorski klif - to zalety Jarosławca, które powodują, że miejscowość co roku przyciąga rzesze turystów. W Jarosławcu znajduje się udostępniona do zwiedzania latarnia morska o wysokości 33 m. Ze szczytu latarni rozciąga się malownicza panorama morza i okolicy.</p>
             </div>
-		</div>
-	</div>
-</section>
+        </div>
+    </div>
 <!-- end sec1 -->
 
 <!-- sec2-->
 <section id="jsec2">
-	<div class="container-fluid">
+	<div class="container">
 		<div class="row justify-content-center">
-			<div class="col-12 text-center">
+			<div class="col-sm-4 col-4">
 				<h1>Atrakcje w Jarosławcu!</h1>
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-sm-2 col-12 text-center">
+			<div class="col-sm-2 col-12">
 				<img src="images/beach.png">
 				<h3>Plaża w Jarosławcu</h3>
                 <p>Z wydzielonymi, strzeżonymi latem kąpieliskami. W 2012r kąpielisko „Jarosławiec Wschód” zostało wyróżnione Błękitna Flagą.</p>
 			</div>
-			<div class="col-sm-2 col-12 text-center">
+			<div class="col-sm-2 col-12">
 				<img src="images/cliff.png">
 				<h3>Klifowe wybrzeże</h3>
                 <p>Strome brzegi klifowe porośnięte drzewami (stanowiska sosny czarnej) oraz roślinnością wydmową z chronionym mikołajkiem nadmorskim.</p>
 			</div>
-			<div class="col-sm-2 col-12 text-center">
+			<div class="col-sm-2 col-12">
 				<img src="images/lighthouse.png">
 				<h3>Latarnia Morska w Jarosławcu</h3>
                 <p>w 1993 roku latarnia została wpisana do rejestru zabytków. Usytuowana jest w samym centrum Jarosławca i udostępniana do zwiedzania.</p>
 			</div>
-			<div class="col-sm-2 col-12 text-center">
+			<div class="col-sm-2 col-12">
 				<img src="images/anchor.png">
 				<h3>Przystań rybacka</h3>
                 <p>Zaopatrzona jest w dalbę wyciągową, a na przynależącej do niej plaży stoją zazwyczaj malownicze, kolorowe rybackie kutry i łodzie.</p>
 			</div>
-			<div class="col-sm-2 col-12 text-center">
+			<div class="col-sm-2 col-12">
 				<img src="images/museum.png">
 				<h3>Unikalne Muzeum Bursztynu</h3>
                 <p></p>
 			</div>
-			<div class="col-sm-2 col-12 text-center">
+			<div class="col-sm-2 col-12">
 				<img src="images/rope.png">
 				<h3>Park linowy dla dzieci</h3>
                 <p></p>
@@ -66,14 +65,14 @@
 
 <!--sec3-->
 <section id="jsec3">
-    <div class="container">
+    <div class="container-fluid">
         <div class="row justify-content-center">
-            <div class="col-12 text-center">
+            <div class="col-md-8 col-sm-10 col-12">
                 <h1>Ponadto Jarosławiec oferuje liczne atrakcje, m.in:</h1>
             </div>
         </div>
         <div class="row justify-content-center">
-            <div class="col-12 text-center">
+            <div class="col-lg-6 col-md-8 col-sm-10 col-12">
                 <p class="text-center">– międzynarodowy bieg po plaży,</p>
 				<p class="text-center">– biegi młodzieżowe,</p>
 				<p class="text-center">– biegi śniadaniowe,</p>

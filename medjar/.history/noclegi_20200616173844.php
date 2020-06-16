@@ -19,7 +19,6 @@
                 <p class="text-center">Na najmłodszych czekają łóżeczka z materacykami i pościelą, wanienki do kąpieli i krzesełka do karmienia.</p>
                 <p class="text-center">Na piętrze znajduje się ogólnodostępny aneks kuchenny. Na gości czeka także sala kominkowa z WiFi oraz sala zabaw dla dzieci na parterze, a w ogrodzie zadaszone grillowisko i plac zabaw. Naszym gościom gwarantujemy miejsca parkingowe na posesji.</p>
                 <p class="text-center">Doba pobytowa zaczyna się o godz. 16:00 a kończy o 12:00.</p>
-                <p class="text-center">Zapraszamy również do naszej <a href="www.villa-fus.pl">Villi Fus</a>!</p>
             </div>
         </div>
     </div>
