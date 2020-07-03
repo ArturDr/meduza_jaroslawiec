@@ -8,22 +8,18 @@
 <section id="nsec1">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-md-6 col-sm-8 col-10">
-                <h1><strong>Serdecznie zapraszamy do naszej Villi,</strong></h1>
+            <div class="col-12 text-center">
+                <h1><strong>Pensjonat "Meduza" znajduje się w spokojnej nadmorskiej  miejscowości Jarosławiec.</strong><br>Nasz obiekt położony jest 650m od pięknej piaszczystej plaży oraz  300m od centrum.</h1>
             </div>
         </div>
         <div class="row justify-content-center">
-            <div class="col-md-6 col-sm-8 col-10">
-                <h1>położonej w odległości 500m od plaży i 250m od deptaka.</h1>
-            </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-md-8 col-sm-10 col-12">
-                <p class="text-center">Oferujemy wygodne pokoje z łazienką i balkonem, 2, 3 i 4 osobowe oraz dwupokojowe studia.</p>
-                <p class="text-center">Każdy pokój wyposażony jest w lodówkę, tv, czajnik, oraz dwa duże ręczniki i jeden mały.</p>
-                <p class="text-center">Na najmłodszych czekają łóżeczka z materacykami i pościelą, wanienki do kąpieli i krzesełka do karmienia.</p>
-                <p class="text-center">Na piętrze znajduje się ogólnodostępny aneks kuchenny. Na gości czeka także sala kominkowa z WiFi oraz sala zabaw dla dzieci na parterze, a w ogrodzie zadaszone grillowisko i plac zabaw. Naszym gościom gwarantujemy miejsca parkingowe na posesji.</p>
-                <p class="text-center">Doba pobytowa zaczyna się o godz. 16:00 a kończy o 12:00.</p>
+            <div class="col-12 text-center">
+                <p class="text-center">Dla naszych Gości przygotowaliśmy 10 pokoi 2 lub 3-osobowych, oraz 5 dużych ponad 40 metrowych dwupokojowych apartamentów. Do każdego z naszych pokoi prowadzi niezależne osobne wejście. Małe jak i duże pokoje posiadają łazienkę, aneks kuchenny z płytą elektryczną i niezbędnymi kuchennymi akcesoriami (sztućce, talerze, kubki, garnki) czajnik, lodówkę, tv, ręczniki  oraz suszarke na pranie. Dwupokojowe apartamenty znajdują się na 1 piętrze. Z każdego apartamentu jest dostęp do przestronnego tarasu ze stolikiem i krzesłami.</p>
+                <p class="text-center">Na terenie naszego Pensjonatu znajduje się plac zabaw na świeżym powietrzu z huśtawką i piaskownicą  oraz pokój zabaw, w którym nie zazna nudy nasz Najmłodszy Gość. Przygotowaliśmy również dla Was kącik grillowy.</p>
+                <p class="text-center">Akceptujemy przyjazd ze zwierzętami. Proszę pamiętać o wcześniejszym poinformowaniu nas o tym fakcie, jak również o tym że na terenie Pensjonatu obowiązuje prowadzenie psa na smyczy jak i zachowanie po nim czystości. Nie doliczamy dodatkowych opłat za pupila.</p>
+                <p class="text-center">Doba w naszym Pensjonacie rozpoczyna się o godzinie <strong>15:00</strong>, wymeldować należy się do godziny <strong>11:00</strong>.</p>
+                <p class="text-center">Przy Pensjonacie znajduje się niestrzeżony parking, za który nie pobieramy dodatkowej opłaty.</p>
+                <p class="text-center">Zapraszamy również do naszej <a href="www.villa-fus.pl">Villi Fus</a>!</p>
             </div>
         </div>
     </div>
