@@ -9,7 +9,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-5 col-12">
-            	<img src="">
+            <img src="">
             </div>
             <div class="col-sm-7 col-12">
             	<h2><strong>Jarosławiec</strong></h2>

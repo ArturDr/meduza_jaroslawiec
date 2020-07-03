@@ -48,7 +48,7 @@ p {
 }
 
 #sec2 {
-    margin: 2em 0;
+    margin: 1.2em 0;
 }
 
 #sec2 p {
@@ -72,24 +72,19 @@ p {
     color: white;
 }
 
-#sec3 h1 {
-    margin-top: 2.5em;
-}
-
 #sec3 img {
     height: 85px;
     width: 85px;
-    margin-top: 1.5em;
+    margin-top: 1em;
 }
 
 #sec3 h3 {
-    margin-bottom: 4em;
+    margin-bottom: 1em;
 }
 
 #sec4 h1 {
     color: rgba(248.9, 159.1, 28.1, 1);
-    margin-top: 2.5em;
-    margin-bottom: 2em;
+    margin-bottom: 1em;
 }
 
 #sec5 {
@@ -104,7 +99,6 @@ p {
 
 #sec5 h1 {
     color: rgba(248.9, 159.1, 28.1, 1);
-    margin: 2em 0 1em 0;
 }
 
 #sec5 footer {
@@ -113,7 +107,7 @@ p {
 }
 
 #jsec1 {
-    margin: 3em 0;
+    margin: 1.2em 0;
 }
 
 #jsec2 {
@@ -124,14 +118,10 @@ p {
     margin-top: 2em;
 }
 
-#jsec2 h1 {
-    margin-top: 2.5em;
-}
-
 #jsec2 img {
     height: 85px;
     width: 85px;
-    margin-top: 1.5em;
+    margin-top: 1em;
 }
 
 #jsec2 h3 {
@@ -140,12 +130,11 @@ p {
 
 #jsec2 p {
     margin-top: 1em;
-    margin-bottom: 4em;
 }
 
 #jsec3 {
-    margin-top: 2em;
-    margin-bottom: 3em;
+    margin-top: 1em;
+    margin-bottom: 4em;
 }
 
 #jsec3 a {
@@ -191,7 +180,6 @@ p {
 
 #csec1 h1 {
     margin: 1.5em 0;
-    font-weight: 700;
 }
 
 #csec1 table {
@@ -201,7 +189,7 @@ p {
 #csec1 th, #csec1 td {
     padding: 0.3em 0.8em;
     font-size: 0.8em;
-    border-bottom: white solid 2px;
+    border-bottom: white solid 3px;
 }
 
 #csec1 h3 {
