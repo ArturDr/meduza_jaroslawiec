@@ -14,7 +14,7 @@
         </div>
         <div class="row justify-content-center">
             <div class="col-12 text-center">
-                <p>Pensjonat "Meduza" to nadmorski hotel znajdujący się w malowniczej miejscowości Jarosławiec.<br>Do Państwa dyspozycji przygotowaliśmy 10 nowoczesnych i komfortowych pokoi oraz 5 apartamentów z aneksem kuchennym.<br>Obiekt położony jest 650m od piaszczystej plaży. Na terenie ośrodka znajduje się sprzęt do grillowania oraz plac zabaw dla dzieci.<br>Zaprszamy rodziny z dziećmi, osoby indywidualne oraz grupy zorganizowane. Posiadamy własny parking na terenie ośrodka.</p>
+                <p class="text-center">Pensjonat "Meduza" to nadmorski hotel znajdujący się w malowniczej miejscowości Jarosławiec.<br>Do Państwa dyspozycji przygotowaliśmy 10 nowoczesnych i komfortowych pokoi oraz 5 apartamentów z aneksem kuchennym.<br>Obiekt położony jest 650m od piaszczystej plaży. Na terenie ośrodka znajduje się sprzęt do grillowania oraz plac zabaw dla dzieci.<br>Zaprszamy rodziny z dziećmi, osoby indywidualne oraz grupy zorganizowane. Posiadamy własny parking na terenie ośrodka.</p>
             </div>
             <div class="col-12 text-center">
                 <p>Dla klientów Meduzy - 10% rabatu w Śląskiej Karczmie u Ola w centrum!</p>
