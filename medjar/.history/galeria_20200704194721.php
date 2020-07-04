@@ -17,78 +17,78 @@
                     </a>
                 </div>
                 <div class="col-md-6 col-lg-4 item zoom-on-hover">
-                    <a class="lightbox" href="images/gallery/2.jpg">
-                        <img class="img-fluid image" src="images/gallery/2.jpg">
+                    <a class="lightbox" href="images/gallery/2.jpeg">
+                        <img class="img-fluid image" src="images/gallery/2.jpeg">
                     </a>
                 </div>
                 <div class="col-md-6 col-lg-4 item zoom-on-hover">
-                    <a class="lightbox" href="images/gallery/3.jpg">
-                        <img class="img-fluid image" src="images/gallery/3.jpg">
+                    <a class="lightbox" href="images/gallery/3.jpeg">
+                        <img class="img-fluid image" src="images/gallery/3.jpeg">
                     </a>
                 </div>
                 <div class="col-md-6 col-lg-4 item zoom-on-hover">
-                    <a class="lightbox" href="images/gallery/4.jpg">
-                        <img class="img-fluid image" src="images/gallery/4.jpg">
+                    <a class="lightbox" href="images/gallery/4.jpeg">
+                        <img class="img-fluid image" src="images/gallery/4.jpeg">
                     </a>
                 </div>
                 <div class="col-md-6 col-lg-4 item zoom-on-hover">
-                    <a class="lightbox" href="images/gallery/5.jpg">
-                        <img class="img-fluid image" src="images/gallery/5.jpg">
+                    <a class="lightbox" href="images/gallery/5.jpeg">
+                        <img class="img-fluid image" src="images/gallery/5.jpeg">
                     </a>
                 </div>
                 <div class="col-md-6 col-lg-4 item zoom-on-hover">
-                    <a class="lightbox" href="images/gallery/6.jpg">
-                        <img class="img-fluid image" src="images/gallery/6.jpg">
+                    <a class="lightbox" href="images/gallery/6.jpeg">
+                        <img class="img-fluid image" src="images/gallery/6.jpeg">
                     </a>
                 </div>
                 <div class="col-md-6 col-lg-4 item zoom-on-hover">
-                    <a class="lightbox" href="images/gallery/7.jpg">
-                        <img class="img-fluid image" src="images/gallery/7.jpg">
+                    <a class="lightbox" href="images/gallery/7.jpeg">
+                        <img class="img-fluid image" src="images/gallery/7.jpeg">
                     </a>
                 </div>
                 <div class="col-md-6 col-lg-4 item zoom-on-hover">
-                    <a class="lightbox" href="images/gallery/8.jpg">
-                        <img class="img-fluid image" src="images/gallery/8.jpg">
+                    <a class="lightbox" href="images/gallery/8.jpeg">
+                        <img class="img-fluid image" src="images/gallery/8.jpeg">
                     </a>
                 </div>
                 <div class="col-md-6 col-lg-4 item zoom-on-hover">
-                    <a class="lightbox" href="images/gallery/9.jpg">
-                        <img class="img-fluid image" src="images/gallery/9.jpg">
+                    <a class="lightbox" href="images/gallery/9.jpeg">
+                        <img class="img-fluid image" src="images/gallery/9.jpeg">
                     </a>
                 </div>
                 <div class="col-md-6 col-lg-4 item zoom-on-hover">
-                    <a class="lightbox" href="images/gallery/10.jpg">
-                        <img class="img-fluid image" src="images/gallery/10.jpg">
+                    <a class="lightbox" href="images/gallery/10.jpeg">
+                        <img class="img-fluid image" src="images/gallery/10.jpeg">
                     </a>
                 </div>
                 <div class="col-md-6 col-lg-4 item zoom-on-hover">
-                    <a class="lightbox" href="images/gallery/11.jpg">
-                        <img class="img-fluid image" src="images/gallery/11.jpg">
+                    <a class="lightbox" href="images/gallery/11.jpeg">
+                        <img class="img-fluid image" src="images/gallery/11.jpeg">
                     </a>
                 </div>
                 <div class="col-md-6 col-lg-4 item zoom-on-hover">
-                    <a class="lightbox" href="images/gallery/12.jpg">
-                        <img class="img-fluid image" src="images/gallery/12.jpg">
+                    <a class="lightbox" href="images/gallery/12.jpeg">
+                        <img class="img-fluid image" src="images/gallery/12.jpeg">
                     </a>
                 </div>
                 <div class="col-md-6 col-lg-4 item zoom-on-hover">
-                    <a class="lightbox" href="images/gallery/13.jpg">
-                        <img class="img-fluid image" src="images/gallery/13.jpg">
+                    <a class="lightbox" href="images/gallery/13.jpeg">
+                        <img class="img-fluid image" src="images/gallery/13.jpeg">
                     </a>
                 </div>
                 <div class="col-md-6 col-lg-4 item zoom-on-hover">
-                    <a class="lightbox" href="images/gallery/14.jpg">
-                        <img class="img-fluid image" src="images/gallery/14.jpg">
+                    <a class="lightbox" href="images/gallery/14.jpeg">
+                        <img class="img-fluid image" src="images/gallery/14.jpeg">
                     </a>
                 </div>
                 <div class="col-md-6 col-lg-4 item zoom-on-hover">
-                    <a class="lightbox" href="images/gallery/15.jpg">
-                        <img class="img-fluid image" src="images/gallery/15.jpg">
+                    <a class="lightbox" href="images/gallery/15.jpeg">
+                        <img class="img-fluid image" src="images/gallery/15.jpeg">
                     </a>
                 </div>
                 <div class="col-md-6 col-lg-4 item zoom-on-hover">
-                    <a class="lightbox" href="images/gallery/16.jpg">
-                        <img class="img-fluid image" src="images/gallery/16.jpg">
+                    <a class="lightbox" href="images/gallery/16.jpeg">
+                        <img class="img-fluid image" src="images/gallery/16.jpeg">
                     </a>
                 </div>
                 <div class="col-md-6 col-lg-4 item zoom-on-hover">
