@@ -174,10 +174,10 @@ p {
 }
 
 #csec1 {
-    background: url('../images/jellyfishc.jpg') no-repeat center center fixed;
-    background-size: 1000px 800px;
+    background: url('../images/jellyfish.jpg') no-repeat center center fixed;
+    background-size: cover;
     color: white;
-    margin: 3em 0;
+    margin: 3em 2em;
 }
 
 #csec1 h1 {
