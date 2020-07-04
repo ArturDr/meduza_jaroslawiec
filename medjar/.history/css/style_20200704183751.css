@@ -103,8 +103,11 @@ p {
     margin: 3em 0;
 }
 
-#jsec1 h2 {
-    font-weight: 700;
+#jar {
+    color:white;
+    background-color: rgba(248.9, 159.1, 28.1, 1);
+    font-size: 2em;
+    font-weight: 900;
 }
 
 #jsec2 {

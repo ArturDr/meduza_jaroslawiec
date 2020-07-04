@@ -36,20 +36,14 @@
 
 <!-- sec2-->
 <section id="sec3">
-    <div class="container">
-        <div class="row">
-            <div class="col-12 text-center">
-                <img src="images/logonapi.png" height="200" width="383">
-            </div>
-        </div>
-    </div>
+
 </section>
 <!-- end sec2 -->
 
 <!-- sec3 -->
 <section id="sec4">
     <div class="container">
-        <div class="row">
+        <div class="row justify-content-center">
             <div class="col-12 text-center">
                 <h1><strong>NASZA LOKALIZACJA</strong></h1>
             </div>

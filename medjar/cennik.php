@@ -7,13 +7,13 @@
 <!-- sec1 -->
 <section id="csec1">
     <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-12">
+        <div class="row">
+            <div class="col-12 text-center">
                 <h1 class="text-center">CENNIK</h1>
             </div>
         </div>
-        <div class="row justify-content-center">
-            <div class="col-12">
+        <div class="row">
+            <div class="col-12 text-center">
                 <table align="center">
                     <tr>
                         <th>Pokoje</th>

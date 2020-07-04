@@ -30,8 +30,8 @@
 <section id="nsec2">
     <div class="container">
         <div class="row">
-            <div class="col-12 text-center">
-                <img src="images/logonapi.png" height="200" width="383">
+            <div class="col-sm-2 col-12">
+                <img src="images/logonapi.png">
             </div>
     </div>
 </section>

@@ -7,13 +7,13 @@
 <!-- sec1 -->
 <section id="jsec1">
     <div class="container">
-        <div class="row justify-content-around">
-            <div class="col-sm-6 col-12 align-self-center">
-			<h2>JAROSŁAWIEC</h2>
-            <p>to miejscowość wypoczynkowa oraz rybacka, położona na Przylądku Jarosławiec. Piękne krajobrazy oraz niepowtarzalny klimat przyciągają co roku wielu turystów. Wybrzerze klifowe oraz latarnia morska to niektóre z wielu atrakcji, które czekają na osoby wypoczywające w Jarosławcu. Znajduje się tutaj przystań rybacka wyposażona w dalbę wyciągową.</p>
+        <div class="row">
+            <div class="col-sm-5 col-12">
+            	<img src="">
             </div>
-            <div class="col-sm-4 col-12">
-				<img src="images/meduza.jpg"
+            <div class="col-sm-7 col-12">
+            	<h2><strong>Jarosławiec</strong></h2>
+            	<p>to spokojne, niewielkie letnisko położone na środkowym wybrzeżu, blisko Darłowa i Ustki. Wspaniały klimat i krajobrazy, sosnowe lasy, czysta woda w morzu, nadmorski klif - to zalety Jarosławca, które powodują, że miejscowość co roku przyciąga rzesze turystów. W Jarosławcu znajduje się udostępniona do zwiedzania latarnia morska o wysokości 33 m. Ze szczytu latarni rozciąga się malownicza panorama morza i okolicy.</p>
             </div>
 		</div>
 	</div>

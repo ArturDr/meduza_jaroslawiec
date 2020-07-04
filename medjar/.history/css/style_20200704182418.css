@@ -103,10 +103,6 @@ p {
     margin: 3em 0;
 }
 
-#jsec1 h2 {
-    font-weight: 700;
-}
-
 #jsec2 {
     height: auto;
     background: url('../images/jellyfish.jpg') no-repeat center center fixed;
@@ -177,7 +173,7 @@ p {
     background: url('../images/jellyfish.jpg') no-repeat center center fixed;
     background-size: cover;
     color: white;
-    margin: 3em 2em;
+    margin: 2em 3em;
 }
 
 #csec1 h1 {

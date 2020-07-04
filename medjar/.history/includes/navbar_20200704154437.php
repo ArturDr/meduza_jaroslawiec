@@ -31,25 +31,25 @@
             </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="images/slide1.jpeg" class="d-block w-100">
+                <img src="images/slide111.jpeg" class="d-block w-100">
                 <div class="carousel-caption d-none d-md-block">
                     <h2>MEDUZA JAROWSŁAWIEC</h2>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="images/slide2.jpeg" class="d-block w-100">
+                <img src="images/slide111.jpeg" class="d-block w-100">
                 <div class="carousel-caption d-none d-md-block">
                     <h2>MEDUZA JAROWSŁAWIEC</h2>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="images/slide3.jpeg" class="d-block w-100">
+                <img src="images/slide111.jpeg" class="d-block w-100">
                 <div class="carousel-caption d-none d-md-block">
                     <h2>MEDUZA JAROWSŁAWIEC</h2>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="images/slide4.jpeg" class="d-block w-100">
+                <img src="images/slide111.jpeg" class="d-block w-100">
                 <div class="carousel-caption d-none d-md-block">
                     <h2>MEDUZA JAROWSŁAWIEC</h2>
                 </div>
