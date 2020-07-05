@@ -13,7 +13,7 @@
             <p>to miejscowość wypoczynkowa oraz rybacka, położona na Przylądku Jarosławiec. Piękne krajobrazy oraz niepowtarzalny klimat przyciągają co roku wielu turystów. Wybrzeże klifowe oraz latarnia morska to niektóre z wielu atrakcji, które czekają na osoby wypoczywające w Jarosławcu. Znajduje się tutaj przystań rybacka wyposażona w dalbę wyciągową.</p>
             </div>
             <div class="col-sm-5 col-12">
-				<img src="images/sea.jpg" class="img-fluid">
+				<img src="images/sea.jpg">
             </div>
 		</div>
 	</div>
