@@ -74,7 +74,7 @@
         </div>
         <div class="row">
             <div class="col-12 text-center">
-				<p><a href="http://jaroslawiec24.pl/"><strong>jaroslawiec24.pl</strong></a>,<br><a href="http://jaroslawiec.com"><strong>jaroslawiec.com</strong></a>, <br><a href="http://jaroslawiec.net.pl"><strong>jaroslawiec.net.pl</strong></a>, <br><a href="http://jaroslawiec.com.pl"><strong>jaroslawiec.com.pl</strong></a>.</p>
+				<p><a href="http://jaroslawiec24.pl/"><strong>jaroslawiec24.pl</strong></a>, <a href="http://jaroslawiec.com"><strong>www.jaroslawiec.com</strong></a>, <a href="http://jaroslawiec.net.pl"><strong>www.jaroslawiec.net.pl</strong></a>oraz <a href="http://jaroslawiec.com.pl"><strong>www.jaroslawiec.com.pl</strong></a></p>
             </div>
         </div>
     </div>

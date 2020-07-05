@@ -85,7 +85,7 @@ p {
 }
 
 #sec5 a {
-    color: rgba(248.9, 159.1, 28.1, 1);
+    color: rgba(29, 97, 162, 1);
     text-decoration: none;
 }
 
@@ -135,14 +135,8 @@ p {
 }
 
 #jsec3 {
-    margin-top: 3em;
+    margin-top: 2em;
     margin-bottom: 3em;
-}
-
-#jsec3 p {
-    line-height: 2em;
-    margin-top: 1.5em;
-    font-size: 0.8em;
 }
 
 #jsec3 a {

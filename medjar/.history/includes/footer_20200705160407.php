@@ -9,8 +9,8 @@
         <div class="row justify-content-center">
             <div class="col-12 text-center">
                 <p class="text-center">ul. Admiralska 7,<br>76-107 Jarosławiec</p>
-                <p class="text-center"><a href="tel:+48880702065">+48 880 702 065</a>, <a href="tel:+48690066379">+48 690 066 379</a></p>
-                <p class="text-center"><a href="mailto:meduza-jaroslawiec@gmail.com">meduza-jaroslawiec@gmail.com</a></p>
+                <p id="con1" class="text-center"><a href="tel:+48880702065">880 702 065</a>, <a href="tel:+48690066379">690 066 379</a></p>
+                <p id="con2" class="text-center"><a href="mailto:meduza-jaroslawiec@gmail.com">meduza-jaroslawiec@gmail.com</a></p>
             </div>
         </div>
         <div class="row justify-content-end">

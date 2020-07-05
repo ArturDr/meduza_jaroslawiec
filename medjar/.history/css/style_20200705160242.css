@@ -99,6 +99,11 @@ p {
     line-height: 0em;
 }
 
+#sec5 footer p a {
+    text-decoration: none;
+    color: white;
+}
+
 #jsec1 {
     margin: 3em 0;
 }

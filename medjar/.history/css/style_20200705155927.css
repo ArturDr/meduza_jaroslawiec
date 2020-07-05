@@ -99,6 +99,10 @@ p {
     line-height: 0em;
 }
 
+#sec5 footer a {
+    text-decoration: none;
+}
+
 #jsec1 {
     margin: 3em 0;
 }
