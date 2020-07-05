@@ -11,7 +11,7 @@
                 <p class="text-center">ul. Admiralska 7,<br>76-107 Jarosławiec</p>
                 <p class="text-center"><a href="tel:+48880702065">+48 880 702 065</a>, <a href="tel:+48690066379">+48 690 066 379</a></p>
                 <p class="text-center"><a href="mailto:meduza-jaroslawiec@gmail.com">meduza-jaroslawiec@gmail.com</a></p>
-                <p class="text-center">Zapraszamy również do naszej <a target="_blank" rel="noopener noreferrer" href="http://www.villa-fus.pl">Villi Fus</a>!</p>
+                <p class="text-center">Zapraszamy również do naszej <a href="http://www.villa-fus.pl">Villi Fus</a>!</p>
             </div>
         </div>
         <div class="row justify-content-end">

@@ -19,7 +19,7 @@
                 <p class="text-center">Akceptujemy przyjazd ze zwierzętami. Proszę pamiętać o wcześniejszym poinformowaniu nas o tym fakcie, jak również o tym że na terenie Pensjonatu obowiązuje prowadzenie psa na smyczy jak i zachowanie po nim czystości. Nie doliczamy dodatkowych opłat za pupila.</p>
                 <p class="text-center">Doba w naszym Pensjonacie rozpoczyna się o godzinie <strong>15:00</strong>, wymeldować należy się do godziny <strong>11:00</strong>.</p>
                 <p class="text-center">Przy Pensjonacie znajduje się niestrzeżony parking, za który nie pobieramy dodatkowej opłaty.</p>
-                <p class="text-center">Zapraszamy również do naszej <a target="_blank" rel="noopener noreferrer" href="http://www.villa-fus.pl">Villi Fus</a>!</p>
+                <p class="text-center">Zapraszamy również do naszej <a href="http://www.villa-fus.pl">Villi Fus</a>!</p>
             </div>
         </div>
     </div>
