@@ -7,13 +7,13 @@
 <!-- sec1 -->
 <section id="jsec1">
     <div class="container">
-        <div class="row">
+        <div class="row justify-content-around">
             <div class="col-sm-6 col-12 align-self-center">
 			<h2>JAROSŁAWIEC</h2>
             <p>to miejscowość wypoczynkowa oraz rybacka, położona na Przylądku Jarosławiec. Piękne krajobrazy oraz niepowtarzalny klimat przyciągają co roku wielu turystów. Wybrzeże klifowe oraz latarnia morska to niektóre z wielu atrakcji, które czekają na osoby wypoczywające w Jarosławcu. Znajduje się tutaj przystań rybacka wyposażona w dalbę wyciągową.</p>
             </div>
-            <div class="col-sm-6 col-12">
-				<img src="images/sea.jpg" width="640" height="426">
+            <div class="col-sm-4 col-12">
+				<img src="images/meduza.jpg"
             </div>
 		</div>
 	</div>

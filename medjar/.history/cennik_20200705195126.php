@@ -12,7 +12,7 @@
                 <h1>CENNIK</h1>
             </div>
         </div>
-        <div class="row justify-content-center">
+        <div class="row">
             <div class="col-12 text-center">
                 <table align="center">
                     <tr>
