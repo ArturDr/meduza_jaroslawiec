@@ -178,17 +178,8 @@ p {
     color: grey;
 }
 
-#rsec1 {
-    margin: 3em 0;
-}
-
 #rsec1 li {
-    margin-top: 1.5em;
     font-size: 0.6em;
-}
-
-#zap {
-    font-weight: 700;
 }
 
 #csec1 {
