@@ -14,7 +14,7 @@
                     <a class="nav-item nav-link active" href="noclegi.php">Noclegi</a>
                     <a class="nav-item nav-link active" href="cennik.php">Cennik</a>
                     <a class="nav-item nav-link active" href="galeria.php">Galeria</a>
-                    <a class="nav-item nav-link active" href="#sec4">Kontakt</a>
+                    <a class="nav-item nav-link active" href="#sec5">Kontakt</a>
                 </div>
             </div>
         </nav>
@@ -27,24 +27,31 @@
                 <li data-target="#carouselGallery" data-slide-to="0" class="active"></li>
                 <li data-target="#carouselGallery" data-slide-to="1"></li>
                 <li data-target="#carouselGallery" data-slide-to="2"></li>
+                <li data-target="#carouselGallery" data-slide-to="3"></li>
             </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="images/slide111.jpeg" class="d-block w-100 h-75">
+                <img src="images/slide1.jpeg" class="d-block w-100">
                 <div class="carousel-caption d-none d-md-block">
-                    <h2>NOCLEGI JAROSŁAWIEC</h2>
+                    <h2>MEDUZA JAROSŁAWIEC</h2>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="images/slide111.jpeg" class="d-block w-100 h-75">
+                <img src="images/slide2.jpeg" class="d-block w-100">
                 <div class="carousel-caption d-none d-md-block">
-                    <h2>NOCLEGI JAROSŁAWIEC</h2>
+                    <h2>MEDUZA JAROSŁAWIEC</h2>
                 </div>
             </div>
             <div class="carousel-item">
-                <img src="images/slide111.jpeg" class="d-block w-100 h-75">
+                <img src="images/slide3.jpeg" class="d-block w-100">
                 <div class="carousel-caption d-none d-md-block">
-                    <h2>NOCLEGI JAROSŁAWIEC</h2>
+                    <h2>MEDUZA JAROSŁAWIEC</h2>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="images/slide4.jpeg" class="d-block w-100">
+                <div class="carousel-caption d-none d-md-block">
+                    <h2>MEDUZA JAROSŁAWIEC</h2>
                 </div>
             </div>
         </div>
