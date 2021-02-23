@@ -66,3 +66,13 @@
     </div>
 </section>
         <!-- end sec1 -->
+        <!-- sec11 -->
+<section id="sec11">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <img src="images/bon.webp" class="img-fluid">
+            </div>
+        </div>
+    </div>
+</section>
