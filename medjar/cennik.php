@@ -31,7 +31,6 @@
                         <td>370 zł</td>
                     </tr>
                 </table>
-                <h3>Dla klientów Meduzy - 10% rabatu w Śląskiej Karczmie u Ola w centrum!</h3>
             </div>
         </div>
     </div>
