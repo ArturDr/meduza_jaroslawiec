@@ -17,7 +17,8 @@
         <div class="row justify-content-end">
             <div class="col-12 text-right">
                 <footer>
-                    <p>&copy;2020 Artur Robek</p>
+                    <p><?php echo date("Y"); ?> &copy; Meduza Jarosławiec</p>
+                    <p> Created by <a href="https://robekartur.pl">Artur Robek</a></p>
                     <p>Icon made by <a target="_blank" rel="noopener noreferrer" href="https://www.flaticon.com/authors/freepik">Freepik</a> from <a target="_blank" rel="noopener noreferrer" href="http://www.flaticon.com/">www.flaticon.com</a></p>
                     <p>Icon made by <a target="_blank" rel="noopener noreferrer" href="https://www.flaticon.com/authors/prosymbols">Prosymbols</a> from <a target="_blank" rel="noopener noreferrer" href="http://www.flaticon.com/">www.flaticon.com</a></p>
                 </footer>

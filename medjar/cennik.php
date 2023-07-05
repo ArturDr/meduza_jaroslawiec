@@ -21,44 +21,14 @@
                         <th>SEZON WYSOKI 29.06-26.08</th>
                     </tr>
                     <tr>
-                        <td>4 OS</td>
-                        <td>170 zł</td>
-                        <td>220 zł</td>
-                    </tr>
-                    <tr>
-                        <td>3 OS</td>
-                        <td>150 zł</td>
+                        <td>POKÓJ MAŁY</td>
                         <td>200 zł</td>
+                        <td>270 zł</td>
                     </tr>
                     <tr>
-                        <td>2 OS</td>
-                        <td>120 zł</td>
-                        <td>170 zł</td>
-                    </tr>
-                    <tr>
-                        <td>1 OS</td>
-                        <td>100 zł</td>
-                        <td>150 zł</td>
-                    </tr>
-                    <tr>
-                        <td>STUDIO 5 OS</td>
-                        <td>220 zł</td>
-                        <td>300 zł</td>
-                    </tr>
-                    <tr>
-                        <td>STUDIO 4 OS</td>
-                        <td>200 zł</td>
-                        <td>260 zł</td>
-                    </tr>
-                    <tr>
-                        <td>STUDIO 3 OS</td>
-                        <td>180 zł</td>
-                        <td>230 zł</td>
-                    </tr>
-                    <tr>
-                        <td>STUDIO 2 OS</td>
-                        <td>150 zł</td>
-                        <td>200 zł</td>
+                        <td>STUDIO</td>
+                        <td>270 zł</td>
+                        <td>370 zł</td>
                     </tr>
                 </table>
                 <h3>Dla klientów Meduzy - 10% rabatu w Śląskiej Karczmie u Ola w centrum!</h3>
